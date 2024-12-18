@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: demo1-openapi
+  description: |-
+    Demo1 openapi
+  version: 'v1'
+servers:
+  - url: "http://localhost:8080"
+  - url: "https://microcks-microcks.apps.cluster-x56f8.x56f8.sandbox2954.opentlc.com/rest/demo1-openapi/v1"
+paths: {}
